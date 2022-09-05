@@ -1,6 +1,6 @@
 <img alt="coding" width="1000" src="https://drive.google.com/uc?export=view&id=1kMh_BDuBNpASUcdpY2XDkl8D_k-7kM-N">
 <h1 align="center">Hi 👋, I'm Iftekhar Kanon</h1>
-<h3 align="center">A newbie Front-end Web Developer who is still learning a lot of things. I am also a technology enthusiast who have hunger for learn new stuffs. Currently I am learning JavaScript. Road to Full Stack Web Development.</h3>
+<h3 align="center">A newbie Front-end Web Developer who is still learning a lot of things. I am also a technology enthusiast who have hunger for mastering new stuffs. Currently I am learning JavaScript. Road to Full Stack Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftekharkanon&label=Profile%20views&color=0e75b6&style=flat" alt="iftekharkanon" /> </p>
 
