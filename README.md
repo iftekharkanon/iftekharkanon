@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Iftekhar Kanon</h1>
 <h3 align="center">A newbie Front-end Web Developer who is still learning a lot of things. I am also a technology enthusiast who have hunger for mastering new stuffs. Currently I am learning JavaScript. Road to Full Stack Web Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iftekharkanon&label=Profile%20views&color=0e75b6&style=flat" alt="iftekharkanon" /> </p>
-
 <p align="left"> <a href="https://twitter.com/iftekhar_kanon" target="blank"><img src="https://img.shields.io/twitter/follow/iftekhar_kanon?logo=twitter&style=for-the-badge" alt="iftekhar_kanon" /></a> </p>
 
 - 🔭 I’m currently working on **something cool😂**
